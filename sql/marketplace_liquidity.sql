@@ -1,3 +1,4 @@
+-- Advanced SQL query for marketplace analysis
 with seekers as (
 select distinct
     date(m.dateMemberSignup) as sign_up_date
