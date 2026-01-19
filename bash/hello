@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Hello! Your script is running from $(pwd)"
+echo "The time is $(date)"
