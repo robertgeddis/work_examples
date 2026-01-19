@@ -1,3 +1,4 @@
+# Automated build processing script
 #!/bin/bash
 echo "Welcome to the bash script"
 
