@@ -1,5 +1,6 @@
 #!/bin/bash
 # This script is a basic health check to verify my environment is working.
+# System health check script
 echo "Hello! Your script is running from $(pwd)"
 echo "The time is $(date)"#!/bin/bash
 echo "Hello! Your script is running from $(pwd)"
