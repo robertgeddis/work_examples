@@ -3,7 +3,7 @@ Welcome to my personal repository of technical work examples. This project showc
 
 📁 Project Structure
   * [📊 SQL](./sql): Various queries covering A/B testing, marketplace liquidity, product performance and more.
-  * [🐍 Python](./python): Projects demonstrating analysis and visualisation common business problems and scenarios. 
+  * [🐍 Python](./python): Projects demonstrating analysis and visualisation of common business problems and scenarios. 
   * [📂 Bash](./bash): Scripts for system health checks, directory organization, and workflow automation.
 
 🛠️ Key Skills Demonstrated
