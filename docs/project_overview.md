@@ -1,6 +1,4 @@
-# Project Documentation
-
-## Overview
+# Project Overview
 
 Below is an outline of the foundation for the 'Is Bitcoin Digital Gold' project. It follows best practices for organization, reproducibility, and collaborative work.
 
@@ -40,3 +38,21 @@ rg_project/
 - **CBOE Volatility Index (VIX)**: Tracks how much investors expect S&P 500 prices to swing over the next 30 days.
 - **Consumer Price Index (CPI)**: Primary measure of inflation, calculated monthly.
 - **M2 Money Supply (M2)**: Measure of the total amount of money available in the U.S. economy, calculated monthly.
+
+## ETL Process
+
+**Extract**
+Pulled market price data from yfinance library and macro economic data from US Federal Reserve API.
+
+**Transform** 
+- Checked shape, data types and min / max values
+- For market data created two versions to deal with NaN values - synced and filled.
+- Added columns for normalised values:  
+  - For Bitcoin, Gold, S&P 500, DXY, and Yield_10Y normalized columns added - all values start at 100 and measure growth not price.
+  - For all metrics added % change columns - Yield_10Y already being % first differencing [ .dff() ] was used.
+  - Due to the US Govt shutdown on Oct 25 CPI data was missing this month - Used linear interpolation to estimate it..
+
+**Load**
+- Created bitcoin_gold_database.db using SQlite
+- Three tables in total: macro_data, market_filled_data and market_synced_data
+
