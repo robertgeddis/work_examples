@@ -42,9 +42,11 @@ rg_project/
 ## ETL Process
 
 **Extract**
+
 Pulled market price data from yfinance library and macro economic data from US Federal Reserve API.
 
 **Transform** 
+
 - Checked shape, data types and min / max values
 - For market data created two versions to deal with NaN values - synced and filled.
 - Added columns for normalised values:  
@@ -52,7 +54,9 @@ Pulled market price data from yfinance library and macro economic data from US F
   - For all metrics added % change columns - Yield_10Y already being % first differencing [ .dff() ] was used.
   - Due to the US Govt shutdown on Oct 25 CPI data was missing this month - Used linear interpolation to estimate it..
 
+
 **Load**
+
 - Created bitcoin_gold_database.db using SQlite
 - Three tables in total: macro_data, market_filled_data and market_synced_data
 
