@@ -32,8 +32,8 @@ rg_project/
 
 ## Data Dictionary
 
-- ## Bitcoin:## Daily close price values.
-- ## Gold:## Daily close price values.
+- **Bitcoin**: Daily close price values.
+- Gold: Daily close price values.
 - S&P 500: Stock market index tracking the performance of 500 of the largest publicly traded companies in the US.
 - US Dollar Index (DXY): Measures the value of the US Dollar compared to a basket of other currencies.
 - Treasury Yields (Yield_10Y): The interest rate the U.S. government pays to borrow money for a decade.
