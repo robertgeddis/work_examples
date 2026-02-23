@@ -29,3 +29,14 @@ rg_project/
 ├── README.md                   # Project description
 └── uv.lock                     # Dependencies Lock file
 ```
+
+## Data Dictionary
+
+- Bitcoin: Daily close price values.
+- Gold: Daily close price values.
+- S&P 500: Stock market index tracking the performance of 500 of the largest publicly traded companies in the US.
+- US Dollar Index (DXY): Measures the value of the US Dollar compared to a basket of other currencies.
+- Treasury Yields (Yield_10Y): The interest rate the U.S. government pays to borrow money for a decade.
+- CBOE Volatility Index (VIX): Tracks how much investors expect S&P 500 prices to swing over the next 30 days.
+- Consumer Price Index (CPI): Primary measure of inflation, calculated monthly.
+- M2 Money Supply (M2): Measure of the total amount of money available in the U.S. economy, calculated monthly.
