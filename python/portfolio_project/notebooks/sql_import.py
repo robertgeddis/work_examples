@@ -3,7 +3,7 @@ import sqlalchemy as sa
 
 # SQL Engine
 
-db_path = r"C:\Users\rober\Documents\Python\bitcoin_gold_analysis\data\bitcoin_gold_database.db"
+db_path = r"C:\Users\rober\Documents\Python\work_examples\python\portfolio_project\data\bitcoin_gold_database.db"
 engine = sa.create_engine(f"sqlite:///{db_path}")
 
 inspector = sa.inspect(engine)
