@@ -7,7 +7,9 @@ An analytical investigation into the correlation between Bitcoin and Gold.
 ## 🔬 Questions to Investigate
 
 **1.** What is the current relationship between Bitcoin and Gold?
+
 **2.** Do Bitcoin and Gold behave similarly in the economy?
+
 **3.** How does demand differ between Bitcoin and Gold?
 
 ---
