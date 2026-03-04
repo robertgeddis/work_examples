@@ -30,11 +30,11 @@ An analytical investigation into the correlation between Bitcoin and Gold.
 
 ## 🏁 Conclusion
 
-**1.** What is the current relationship between Bitcoin and Gold?
+**1.** What is the current relationship between Bitcoin and Gold?<br>
 Not competitors, but complementary in a dual-hedge relationship. Bitcoin follows Gold, but Gold ignores Bitcoin.
 
-**2.** Do Bitcoin and Gold behave similarly in the economy?
+**2.** Do Bitcoin and Gold behave similarly in the economy?<br>
 Bitcoin hedges the 'causes' of economic problems, Gold hedges the 'effects'.
 
-**3.** How does demand differ between Bitcoin and Gold?
+**3.** How does demand differ between Bitcoin and Gold?<br>
 Bitcoin is a 'Sword' (expansion) while Gold is a 'Shield' (preservation).
