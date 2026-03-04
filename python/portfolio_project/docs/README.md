@@ -4,11 +4,11 @@ An analytical investigation into the correlation between Bitcoin and Gold.
 
 ---
 
-## 🔬 Hypothesis
+## 🔬 Questions to Investigate
 
-* **Safe Haven:** Does Bitcoin act like a fail safe such as Gold or a tech stock?
-* **Inflation Hedge:** How did Bitcoin and Gold behave during the record inflation of 2022-2024?
-* **Institutional Coupling:** Has institutional investment in Bitcoin made it more like Gold or like a tech stock?
+1. What is the current relationship between Bitcoin and Gold?
+2. Do Bitcoin and Gold behave similarly in the economy?
+3. How does demand differ between Bitcoin and Gold?
 
 ---
 
@@ -30,4 +30,11 @@ An analytical investigation into the correlation between Bitcoin and Gold.
 
 ## 🏁 Conclusion
 
-TBC
+1. What is the current relationship between Bitcoin and Gold?
+Not competitors, but complementary in a dual-hedge relationship. Bitcoin follows Gold, but Gold ignores Bitcoin.
+
+2. Do Bitcoin and Gold behave similarly in the economy?
+Bitcoin hedges the 'causes' of economic problems, Gold hedges the 'effects'.
+
+3. How does demand differ between Bitcoin and Gold?
+Bitcoin is a 'Sword' (expansion) while Gold is a 'Shield' (preservation).
